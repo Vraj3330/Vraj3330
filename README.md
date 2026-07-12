@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Vraj3330
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Vraj Patel 👋
 
-<!---
-Vraj3330/Vraj3330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm learning AI automation and web development.
+
+## 🔗 Featured Project
+**Global Fabrics — Business Website with AI Chatbot**
+A demo website I built (Next.js) with an AI-powered chatbot integration.
+👉 [View Live Site](https://website-brown-eight-66.vercel.app)
